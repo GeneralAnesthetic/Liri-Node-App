@@ -1,0 +1,26 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "This app will allow folks, like you, to do something more awesome than some deranged unfortunate person would be capable of after unsuccessfully scouring the desert for days in a small solar-powered forklift looking for hope, water and the their day-shift supervisor.",
+  "main": "keys.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeneralAnesthetic/Liri-Node-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeneralAnesthetic/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/GeneralAnesthetic/Liri-Node-App#readme"
+}
